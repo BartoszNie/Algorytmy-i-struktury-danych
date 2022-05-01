@@ -13,7 +13,7 @@ void insertionSort (int tablica[]){ //poczatek algorytmu
     }
 }
 void binarySearch(int tablica[], int x, int Lewo, int Prawo){
-    int pivot; //Zmienna "x"
+    int pivot; //Zmienna "pivot"
     int jest=0; //Wartość zmiennej "jest" ustawiona jako 0
     do{
         pivot = (Prawo+Lewo)/2; //Zmienna "pivot" otrzymuje wartość połowy tablicy
