@@ -128,7 +128,7 @@ int main() {
   Graph[6][6] = 0;
   Graph[6][7] = 5;
   Graph[6][8] = 0;
-  Graph[6][9] = 0;
+  Graph[6][9] = 10;
   Graph[6][10] = 18;
 
   Graph[7][0] = 0;
